@@ -6,7 +6,7 @@ puts ""
 # The first instruction is correct. 
 
 # Step 1: GOOD
-put "Step 1: Right arm out in front of you, palm facing down."
+puts "Step 1: Right arm out in front of you, palm facing down."
 
 # Step 2: FIXME
 puts "Step 2: Left arm out in front of you, palm facing down."
